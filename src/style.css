@@ -1,0 +1,2 @@
+@import "tailwindcss/preflight";  /* reset bawaan Tailwind */
+@import "tailwindcss/utilities";  /* semua class utilitas */
